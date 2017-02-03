@@ -1,0 +1,163 @@
+
+
+
+#header
+{
+	font-family:Consolas;
+	color:#678C8B;
+	text-align:center;
+	font-size:220%;
+	font-weight:normal;
+}
+#login
+{
+	background-color:#3F4B4E;
+	color:#678C8B;
+	text-align: center;
+	width: 450px;
+	height: 400px;
+	padding: 40px;
+	font-size:120%;
+	margin-left:30%;
+	margin-right:25%;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	font-family:consolas;
+}
+
+#footer
+{
+	background-color:#293134;
+	color: #678C8B;
+	font-size:120%;
+	padding:5px;
+	clear:both;
+	text-align:center;
+	position:fixed;
+    height:50px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin-bottom:0px;
+	font-family:consolas;
+
+
+}
+
+#text{
+    width: 300px;
+	height:25px;
+	font-family:consolas;
+	background-color:#293134;
+	margin-top:5px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: solid;
+	border-color: #293134;
+	outline: none;
+	color:#678C8B;
+	margin-bottom:5px;
+	 position:auto;
+    left:550px;
+
+
+}
+
+
+#log
+{
+	width: 100px;
+	height:33px;
+	font-size:110%;
+	color: #678C8B;
+	background-color:#293134;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: solid;
+	border-color:#293134;
+	font-family:consolas;
+	outline:none;
+
+
+
+}
+#log:focus
+{
+	border-color:#121517;
+	background-color:#121517;
+
+}
+#log:hover
+{
+	border-color:#121517;
+	background-color:#121517;
+
+}
+
+
+#link
+{
+	font-family:consolas;
+	color:#293134;
+	text-decoration:none;
+
+}
+
+#link:hover
+{
+	color:#678C8B;
+	text-decoration:none;
+}
+
+
+#text:hover
+{
+	border-color:#121517;
+	background-color:#121517;
+
+
+}
+
+#text:focus
+{
+	border-color:#121517;
+	background-color:#121517;
+
+}
+#birday
+{
+	color: #678C8B;
+	height:25px;
+	width: 185px;
+	margin:5px;
+	-moz-text-align-last: right; /* Code for Firefox */
+    text-align-last: right;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: solid;
+	border-color:#293134;
+	background-color:#293134;
+	outline: none;
+
+}
+#birday:focus
+{
+	border-color:#121517;
+	background-color:#121517;
+}
+
+#birday:hover
+{
+	border-color:#121517;
+	background-color:#121517;
+}
+
+#sex
+{
+	margin: 20px;
+	padding:5px;
+}
