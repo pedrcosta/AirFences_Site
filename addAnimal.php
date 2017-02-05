@@ -11,10 +11,9 @@
 
   <div>
     <form id="nav" action="" >
-      <a  id="link" href="addField.php"> Add Field </a>
-      <a  id="link" href=""> Add Animal </a>
+      <a  id="link" href="addAnimal.php"> Add Animal </a>
       <a  id="link" href=""> Change Field </a>
-      <a  id="link" href=""> Animal Info </a>
+      <a  id="link" href="animalInfo.php"> Animal Info </a>
       <a  id="link" href="session_destroy.php"> Logout </a>
     </form>
   </div>
